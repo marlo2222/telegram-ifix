@@ -7,4 +7,4 @@
 
 - Esse projeto foi idealizado pensando em consumir outro serviço em **construção** :construction: que fornece informações do índice IFIX.
 
-- Essa Aplicação terá como objetivo fornecer essas informações sobre os rendimentos, altas e baixas diárias enviando mensagens diária programadas como rotinas. 
+- Essa Aplicação terá como objetivo fornecer essas informações sobre os rendimentos, altas e baixas diárias enviando mensagens programadas como rotinas. 
